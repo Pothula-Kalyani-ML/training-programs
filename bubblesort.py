@@ -1,3 +1,4 @@
+# vs code
 array=list(map(int, input("elements of array:-").strip().split()))
 print(array)
 length=len(array)
